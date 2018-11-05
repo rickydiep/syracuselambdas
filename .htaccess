@@ -20,4 +20,4 @@ ExpiresDefault "access 1 week"
 ## EXPIRES CACHING ##
 
 ErrorDocument 404 /index.html
-</TfModule>
+</IfModule>
