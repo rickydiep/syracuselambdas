@@ -385,3 +385,6 @@ footer a:hover{
     #mobile-brand-logo img{height: 30px;}
         
 }
+@media screen and (max-width: 325px){
+    #mobile-brand-logo{width: 80%;}
+}
